@@ -1,0 +1,33 @@
+{
+  "name": "thopshook",
+  "version": "1.0.0",
+  "description": "hook ref",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --init"
+
+
+  },
+  "author": "https://github.com/thops1925",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thops1925"
+  },
+  "keywords": [
+    "upload",
+    "image",
+    "hook"
+  ],
+  "dependencies": {
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
